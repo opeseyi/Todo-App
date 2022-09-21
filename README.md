@@ -1,4 +1,4 @@
-# EXPENSE TRACKER
+# TODO APP
 
 This a Todo List App
 Built with **React**
